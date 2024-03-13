@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Main {
+public class RecordUsage {
     public static void main(String[] args) {
         List<Object> peoples= new ArrayList<>();
         peoples.addAll(getEmployees());

@@ -1,6 +1,6 @@
 package org.rjv.projects;
 
-public class FoodOrder {
+public class SwitchWithRecord {
     public static void main(String[] args) {
         System.out.println("Protein Level : "+ getProteinLevel(new Dish<>( new Cheese(), new Egg())));
     }
