@@ -23,7 +23,6 @@ public class SharedMutability {
                // break;
             }
             count++;
-
             System.out.println("failed count is " + failCount);
         }
     }
